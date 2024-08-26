@@ -1,0 +1,46 @@
+h1 {
+background-color: rgb(223, 172, 106);
+text-align:center;
+font-size: 3rem
+}
+
+h2 {
+background-color: rgb(223, 172, 106);
+text-align:center;
+font-size: 2rem
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+li {
+    font-size: 1.5rem;
+    color: rgb(226, 162, 79);
+}
+
+div.Fondo {background-color: rgb(253, 229, 198);}
+
+img.borde {
+    border: 5px solid rgb(223, 172, 106) ;
+}
+
+div.center {
+    text-align: center;
+}
+
+footer {
+    background-color:rgb(253, 229, 198); ;
+}
+
+img.borde_foot {
+    border: 3px solid  rgb(223, 172, 106);
+}
+
+a.cuadro {
+    border: 3px solid  rgb(223, 172, 106);
+}
+
+iframe {
+    border: 5px solid rgb(223, 172, 106) ;
+}
